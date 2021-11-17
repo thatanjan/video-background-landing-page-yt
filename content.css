@@ -1,0 +1,49 @@
+.content_container {
+	position: absolute;
+	top: 40%;
+	left: 5%;
+	z-index: 10;
+	color: white;
+	text-transform: uppercase;
+}
+.content_container .album_title {
+	font-size: 10rem;
+	font-family: 'Mohave', sans-serif;
+	margin-bottom: -3rem;
+}
+
+.content_container .subtitle {
+	font-size: 4rem;
+	font-family: var(--lato-font-family);
+	font-style: italic;
+	color: #ececec;
+	margin-bottom: 3rem;
+}
+
+.content_container .available {
+	font-size: 2rem;
+	font-family: var(--lato-font-family);
+	opacity: 0.8;
+}
+
+.order_button {
+	background: var(--primary-red);
+	color: white;
+	padding: 1rem;
+	border-radius: 5px;
+	font-size: 1.5rem;
+	font-weight: bold;
+	cursor: pointer;
+	transition: all 0.1s;
+	border: none;
+	margin: 2rem 0;
+	text-transform: capitalize;
+}
+
+.order_button:focus {
+	outline: none;
+}
+
+.order_button:active {
+	transform: translate(0, 10px);
+}
