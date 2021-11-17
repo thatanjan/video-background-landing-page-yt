@@ -1,9 +1,6 @@
-
 # Video background for Landing page
 
 This repository contains the source code of the project that taught in the [Add a video background to your landing page to make it more gorgeous ]() on [Cules Coding](https://www.youtube.com/channel/UCBaGowNYTUsm3IDaHbLRMYw?sub_confirmation=1)
-
-
 
 ## Run Locally
 
@@ -21,14 +18,17 @@ Go to the project directory
 
 Open the `index.js` file direcly or with a live server.
 
+## Screenshots
+
+![](https://raw.githubusercontent.com/thatanjan/video-background-landing-page-yt/main/screenshots/1.png)
+![](https://raw.githubusercontent.com/thatanjan/video-background-landing-page-yt/main/screenshots/2.png)
+![](https://raw.githubusercontent.com/thatanjan/video-background-landing-page-yt/main/screenshots/3.png)
+![](https://raw.githubusercontent.com/thatanjan/video-background-landing-page-yt/main/screenshots/4.png)
+
 ## Authors
 
 - [@thatanjan](https://www.github.com/thatanjan)
 
-
 ## Support
 
 For support, subscribe to [Cules Coding](https://www.youtube.com/channel/UCBaGowNYTUsm3IDaHbLRMYw?sub_confirmation=1)
-
-
-
